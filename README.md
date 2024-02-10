@@ -6,6 +6,6 @@ A website with the auto-playing song “Never Gonna Give You Up” that can be u
 ### Normal - https://melishy.github.io/mreilcikshyroll/
 
 # What is Mreilcikshyroll?
-*m***r***e***i***l***c***i***k***shy***roll**
+m**r**e**i**l**c**i**k**shy**roll**
 theres inside the word - rickroll
 theres inside the word - melishy
